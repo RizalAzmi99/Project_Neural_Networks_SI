@@ -64,8 +64,8 @@ Karena file berbentuk Jupyter Notebook (`.ipynb`), cara termudah untuk menjalank
 4.  Jalankan setiap sel kode secara berurutan (*Runtime > Run all*).
 
 ---
-*Dibuat oleh 
-1. Muhammad Ramadhan Awaliadi
+Dibuat oleh 
+1. Muhamad Ramadan Awaliadi
 2. Muhammad Rizal Azmi
 3. Jonathan Stevanus THE
-4. Syahtria Akbaruari*
+4. Syahtria Akbaruari
