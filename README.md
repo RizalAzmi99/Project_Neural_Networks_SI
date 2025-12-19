@@ -3,7 +3,7 @@
 
 Repository ini berisi kumpulan proyek *Data Science* dan *Machine Learning* yang mencakup berbagai domain, mulai dari retail, kesehatan, lingkungan, hingga perhotelan. Setiap proyek dikerjakan menggunakan Python di Google Colab.
 
-## 📂 Daftar Proyek
+## Daftar Proyek
 
 Berikut adalah detail dari setiap *notebook* yang ada dalam repository ini:
 
@@ -48,14 +48,14 @@ Berikut adalah detail dari setiap *notebook* yang ada dalam repository ini:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 Proyek-proyek ini dibangun menggunakan pustaka Python berikut:
 * **Pandas & NumPy:** Untuk manipulasi dan analisis data.
 * **Matplotlib & Seaborn:** Untuk visualisasi data.
 * **Scikit-Learn:** Untuk algoritma Machine Learning klasik.
 * **TensorFlow / Keras:** Untuk membangun model Deep Learning/Neural Networks.
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 Karena file berbentuk Jupyter Notebook (`.ipynb`), cara termudah untuk menjalankannya adalah:
 
 1.  Buka file `.ipynb` yang diinginkan di GitHub ini.
